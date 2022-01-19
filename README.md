@@ -38,6 +38,7 @@ mes progrès dans les sujets liés à la data analyst/data science/storytelling.
   - [Python](https://www.kaggle.com/learn/certification/berniceagossouvo/python) (Kaggle : Juillet 2021)
   - [Data Cleaning](https://www.kaggle.com/learn/certification/berniceagossouvo/data-cleaning) (Kaggle :Oct 2020)
   - [Introduction au machine learning](https://www.udemy.com/certificate/UC-c0a30d25-4107-41a3-9627-58cf9fc123b0/) (Udemy : Fev 2020)
+  - [Web scraping avec Python pour la data science](https://www.udemy.com/certificate/UC-583889c5-66e1-4689-b34f-b7c9412c1b3f/) (Udemy : Jan 2022)
 
 ## Contacts <a id ="8"> </a>
 
