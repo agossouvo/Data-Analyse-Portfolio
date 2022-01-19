@@ -18,7 +18,7 @@ mes progrès dans les sujets liés à la data analyst/data science/storytelling.
     - [Prédiction des défauts de paiement des prêts automobiles](#2.1)<br>
     - [Analyse sur l'immigration au Canada](#2.2)<br>
   - [Projets d'Etude](#4)<br>
-  - [Certification](#6)<br>
+  - [Certifications](#6)<br>
   - [Contacts](#8)<br> 
 
 ## Portfolio Projets <a id ="2"> </a>
@@ -33,7 +33,7 @@ mes progrès dans les sujets liés à la data analyst/data science/storytelling.
 
 
 
-## Certification  <a id ="6"> </a>
+## Certifications  <a id ="6"> </a>
   - [Data science Methodology](https://www.credly.com/earner/earned/badge/a18d2f5e-813a-4ec6-bb8a-bd4f4f39cbce) (Coursera)
   - [Data Science Orientation](https://www.credly.com/earner/earned/badge/3a4dce9f-a5ae-4fff-8b42-1d292c5fbe8f) (Coursera)
   - [Data Visualisation with Python](https://www.credly.com/earner/earned/badge/d1c5f47c-6609-4494-87a0-49f2cca932ed) (Coursera)
