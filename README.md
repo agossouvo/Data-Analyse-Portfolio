@@ -28,7 +28,9 @@ mes progrès dans les sujets liés à la data analyst/data science/storytelling.
   Description : le jeu de données contient 233154 enregistrements et 38 Variables. Il s'agit de prédire la probabilité qu'un preneur de crédit/l'emprunteur ne rembourse pas son prêt automobile à la date d'échéance du premier versement mensuel équivalent. 
 le projet comprend les étapes suivantes : chargement des données, nettoyage et prétraitement des données, remplissage des valeurs manquantes, EDA (analyse exploratoire des données),
 Construction des modèles d'apprentissage
-
+  Compétences : Nettoyage des données, analyse des données, statistiques descriptives, Analyse bivariée, ACP, tests statistiques, visualisation des données,Machine learning
+  Technologie : Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, les bibliothèques R.
+  
   
 ### Analyse sur l'immigration au Canada <a id ="2.2"> </a>
 
