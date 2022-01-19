@@ -22,7 +22,12 @@ mes progrès dans les sujets liés à la data analyst/data science/storytelling.
   - [Contacts](#8)<br> 
 
 ## Portfolio Projets <a id ="2"> </a>
+  Dans cette section, j'énumère les projets d'analyse de données réalisés en les décrivant brièvement.
 ### Prédiction des défauts de paiement des prêts automobiles <a id ="2.1"> </a>
+  Code : [Prédiction des défauts de paiement des prêts automobiles.ipynb](https://github.com/agossouvo/Data-mining-projects/blob/main/Pr%C3%A9diction%20des%20d%C3%A9fauts%20de%20paiement%20des%20pr%C3%AAts%20automobiles.ipynb)<br>
+  Description : le jeu de données contient 233154 enregistrements et 38 Variables. Il s'agit de prédire la probabilité qu'un preneur de crédit/l'emprunteur ne rembourse pas son prêt automobile à la date d'échéance du premier versement mensuel équivalent. 
+le projet comprend les étapes suivantes : chargement des données, nettoyage et prétraitement des données, remplissage des valeurs manquantes, EDA (analyse exploratoire des données),
+Construction des modèles d'apprentissage
 
   
 ### Analyse sur l'immigration au Canada <a id ="2.2"> </a>
