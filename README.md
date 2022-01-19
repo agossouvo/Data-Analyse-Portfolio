@@ -39,7 +39,10 @@ mes progrès dans les sujets liés à la data analyst/data science/storytelling.
   - [Data Cleaning](https://www.kaggle.com/learn/certification/berniceagossouvo/data-cleaning) (Kaggle :Oct 2020)
   - [Introduction au machine learning](https://www.udemy.com/certificate/UC-c0a30d25-4107-41a3-9627-58cf9fc123b0/) (Udemy : Fev 2020)
   - [Web scraping avec Python pour la data science](https://www.udemy.com/certificate/UC-583889c5-66e1-4689-b34f-b7c9412c1b3f/) (Udemy : Jan 2022)
-
+  - [Data science Methodology](https://www.credly.com/earner/earned/badge/a18d2f5e-813a-4ec6-bb8a-bd4f4f39cbce) (Coursera)
+  - [Data Visualisation with Python](https://www.credly.com/earner/earned/badge/d1c5f47c-6609-4494-87a0-49f2cca932ed) (Coursera)
+  - [Data Analysis with Python](https://www.credly.com/earner/earned/badge/cb4e3cb7-3141-4399-a046-84b296426910) (Coursera)
+  - [Data Science Orientation](https://www.credly.com/earner/earned/badge/3a4dce9f-a5ae-4fff-8b42-1d292c5fbe8f) (Coursera)
 ## Contacts <a id ="8"> </a>
 
 En mon sens la meilleure façon de montrer ses compétences est de faire et de partager son travail accompli,
