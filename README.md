@@ -17,7 +17,10 @@ mes progrès dans les sujets liés à la data analyst/data science/storytelling.
   - [Portfolio Projets](#2)<br>
     - [Prédiction des défauts de paiement des prêts automobiles](#2.1)<br>
     - [Analyse sur l'immigration au Canada](#2.2)<br>
-  - [Projets d'Etude](#4)<br>
+  - [Cours suivis et Projets connexes](#4)<br>
+    - [France-IOI Cours et Problèmes](#4.1)<br>
+    - [Kaggle 30 Days of ML](#4.2)<br>
+    - [DataCamp](#4.3)<br>
   - [Certifications](#6)<br>
   - [Contacts](#8)<br> 
 
@@ -36,7 +39,14 @@ Construction des modèles d'apprentissage
 
 
 ## Projets d'Etude <a id ="4"> </a>
+  ### France-IOI Cours et Problèmes <a id ="4.1"> </a>:
+  [France-IOI](http://www.france-ioi.org) est une plateforme d'apprentissage de code. il est conçu pour vous permettre de progresser rapidement en programmation et en algorithmique, par un apprentissage allant de la découverte des bases de la programmation jusqu'au niveau des compétitions internationales les plus prestigieuses. 
+  
+  ### Kaggle 30 days of ML <a id ="4.2"> </a>
+   Description : 30 jours d'apprentissage automatique par Kaggle. Le cours couvre rapidement les compétences les plus essentielles nécessaires pour monter en compétence avec les données et apprendre rapidement à construire des modèles d'apprentissage automatique.
 
+  
+  ### DataCamp <a id = "4.3"> </a>
 
 
 
