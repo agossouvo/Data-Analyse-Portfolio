@@ -31,20 +31,25 @@ mes progrès dans les sujets liés à la data analyst/data science/storytelling.
   Code : [Prédiction des défauts de paiement des prêts automobiles.ipynb](https://github.com/agossouvo/Data-mining-projects/blob/main/Pr%C3%A9diction%20des%20d%C3%A9fauts%20de%20paiement%20des%20pr%C3%AAts%20automobiles.ipynb)<br>
   Description : le jeu de données contient 233154 enregistrements et 38 Variables. Il s'agit de prédire la probabilité qu'un preneur de crédit/l'emprunteur ne rembourse pas son prêt automobile à la date d'échéance du premier versement mensuel équivalent. 
 le projet comprend les étapes suivantes : chargement des données, nettoyage et prétraitement des données, remplissage des valeurs manquantes, EDA (analyse exploratoire des données),
-Construction des modèles d'apprentissage
-  Compétences : Nettoyage des données, analyse des données, statistiques descriptives, Analyse bivariée, ACP, tests statistiques, visualisation des données,Machine learning
+Construction des modèles d'apprentissage <br><li>
+  Compétences : Nettoyage des données, analyse des données, statistiques descriptives, Analyse bivariée, ACP, tests statistiques, visualisation des données,Machine learning<br>
   Technologie : Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, les bibliothèques R.
   
   
 ### Analyse sur l'immigration au Canada <a id ="2.2"> </a>
-code: [PROJET SUR L'IMMIGRATION AU CANADA.ipynb](https://github.com/agossouvo/DataVisualisation/blob/main/PROJET%20SUR%20L'IMMIGRATION%20AU%20CANADA.ipynb)
-Description : le jeu de données contient les flux migratoires au canada de 1980 à 2013. Les données présentent à la fois les entrées et les sorties en fonction du lieu de naissance, de la citoyenneté ou du lieu de résidence précédent/suivant pour les étrangers et les nationaux. Il s'agit d'explorer ces données afin de déterminer d'éventuels patterns. De connaître les pays ou les contients ayant enregistré un nombre maximal de sortie vers le canada. il a été réalisé des graphiques sous python avec les bibliothèques matplotlib, Seaborn allant de simples graphes aux plus complexes en 3 dimensions
-  Compétences : Exploration de données, visualisation des données avec des bibliothèques python pour la visualisation, Data mining consolidation, 
-  Technologie : Pandas, Numpy, Matplotlib, seaborn
+code: [PROJET SUR L'IMMIGRATION AU CANADA.ipynb](https://github.com/agossouvo/DataVisualisation/blob/main/PROJET%20SUR%20L'IMMIGRATION%20AU%20CANADA.ipynb)<br>
+Description : le jeu de données contient les flux migratoires au canada de 1980 à 2013. Les données présentent à la fois les entrées et les sorties en fonction du lieu de naissance, de la citoyenneté ou du lieu de résidence précédent/suivant pour les étrangers et les nationaux. Il s'agit d'explorer ces données afin de déterminer d'éventuels patterns. De connaître les pays ou les contients ayant enregistré un nombre maximal de sortie vers le canada. il a été réalisé des graphiques sous python avec les bibliothèques matplotlib, Seaborn allant de simples graphes aux plus complexes en 3 dimensions<br>
+  Compétences : Exploration de données, visualisation des données avec des bibliothèques python pour la visualisation, Data mining consolidation <br>
+  Technologie : Pandas, Numpy, Matplotlib, seaborn <br>
   
-### Etude de la croissance economique des pays 
-  code :
-  Description : Data Visualisation résumant le classement des pays en termes de niveau de vie, carte géolocalisée en fonction de la densité de la population avec un outil dédié à cette tâche : [Power Bi](https://powerbi.microsoft.com/fr-be/)
+  ### Etude de la croissance economique des pays du monde <a id ="2.3"> </a>
+  code :[Croissance Economique](https://github.com/agossouvo/Projets_parallele)<br>
+  Description : Data Visualisation résumant le classement des pays en termes de niveau de vie, carte géolocalisée en fonction de la densité de la population avec un outil dédié à cette tâche : [Power Bi](https://powerbi.microsoft.com/fr-be/)<br>
+  Compétences: Traiter et analyser des ensembles de données importants,se connecter aux sources de données et effectuer des transformations de données, modéliser et visualiser des données, Configurer des tableaux de bord à l'aide du service Power BI. <br>
+  Technologie: Power BI, Power query
+  
+  ### Web scraping sur différents sites <a id ="2.4"> </a>
+  Code [Scraping]()
   
 ## Projets d'Etude <a id ="4"> </a>
   ### France-IOI Cours et Problèmes <a id ="4.1"> </a>:
