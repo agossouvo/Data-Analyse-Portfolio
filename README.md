@@ -81,6 +81,7 @@ Description : le jeu de données contient les flux migratoires au canada de 1980
   - [Data Cleaning](https://www.kaggle.com/learn/certification/berniceagossouvo/data-cleaning) (Kaggle :Oct 2020)
   - [Introduction to machine learning](https://www.kaggle.com/learn/certification/berniceagossouvo/intro-to-machine-learning) (Kaggle : Oct 2020)
   - [Introduction au machine learning](https://www.udemy.com/certificate/UC-c0a30d25-4107-41a3-9627-58cf9fc123b0/) (Udemy : Fev 2020)
+  - [Google analytics pour les débutants](https://analytics.google.com/analytics/academy/course)
   
   
 ## Contacts <a id ="8"> </a>
