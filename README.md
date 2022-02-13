@@ -85,7 +85,7 @@ Description : le jeu de données contient les flux migratoires au canada de 1980
   
   
 ## Contacts <a id ="8"> </a>
-  Linkedin : [@Agossouvo](www.linkedin.com/in/berniceagossouvo-data-analyst) <br>
+  Linkedin : [Agossouvo](www.linkedin.com/in/berniceagossouvo-data-analyst) <br>
   Email : berniceagossouvo@gmail.com
 
 
