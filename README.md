@@ -81,14 +81,13 @@ Description : le jeu de données contient les flux migratoires au canada de 1980
   - [Data Cleaning](https://www.kaggle.com/learn/certification/berniceagossouvo/data-cleaning) (Kaggle :Oct 2020)
   - [Introduction to machine learning](https://www.kaggle.com/learn/certification/berniceagossouvo/intro-to-machine-learning) (Kaggle : Oct 2020)
   - [Introduction au machine learning](https://www.udemy.com/certificate/UC-c0a30d25-4107-41a3-9627-58cf9fc123b0/) (Udemy : Fev 2020)
-  - [Google analytics pour les débutants](https://analytics.google.com/analytics/academy/course)
+  - [Google analytics pour les débutants](https://analytics.google.com/analytics/academy/course/6)
   
   
 ## Contacts <a id ="8"> </a>
+  Linkedin : [@Agossouvo](www.linkedin.com/in/berniceagossouvo-data-analyst) <br>
+  Email : berniceagossouvo@gmail.com
 
-En mon sens la meilleure façon de montrer ses compétences est de faire et de partager son travail accompli,
-mais parfois les certificationss apparaissent comme un résultat indirect :) 
-Voici donc une liste de ceux que je possède
 
 
 
