@@ -64,10 +64,11 @@ Description : le jeu de données contient les flux migratoires au canada de 1980
 
 
 ## Certifications  <a id ="6"> </a>
-  - [Data science Methodology](https://www.credly.com/earner/earned/badge/a18d2f5e-813a-4ec6-bb8a-bd4f4f39cbce) (Coursera)
-  - [Data Science Orientation](https://www.credly.com/earner/earned/badge/3a4dce9f-a5ae-4fff-8b42-1d292c5fbe8f) (Coursera)
-  - [Data Visualisation with Python](https://www.credly.com/earner/earned/badge/d1c5f47c-6609-4494-87a0-49f2cca932ed) (Coursera)
-  - [Data Analysis with Python](https://www.credly.com/earner/earned/badge/cb4e3cb7-3141-4399-a046-84b296426910) (Coursera)
+  [Certification Professionnelle IBM DATA SCIENCE](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=gg&utm_medium=sem&campaignid=2087860785&utm_campaign=10-IBM-Data-Science-ROW&utm_content=B2C&adgroupid=79675709271&device=c&keyword=ibm%20data%20science&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=489197596485&hide_mobile_promo&gclid=CjwKCAiA9aKQBhBREiwAyGP5lZbYjh0TEBCwjNba9AxyFtuM-c5lJtRvWvu0Ea61LrRFX0PCsBc1nBoC8k0QAvD_BwE)<br>
+    - [Data science Methodology](https://www.credly.com/earner/earned/badge/a18d2f5e-813a-4ec6-bb8a-bd4f4f39cbce) (Coursera)
+    - [Data Science Orientation](https://www.credly.com/earner/earned/badge/3a4dce9f-a5ae-4fff-8b42-1d292c5fbe8f) (Coursera)
+    - [Data Visualisation with Python](https://www.credly.com/earner/earned/badge/d1c5f47c-6609-4494-87a0-49f2cca932ed) (Coursera)
+    - [Data Analysis with Python](https://www.credly.com/earner/earned/badge/cb4e3cb7-3141-4399-a046-84b296426910) (Coursera)
   - [Web scraping avec Python pour la data science](https://www.udemy.com/certificate/UC-583889c5-66e1-4689-b34f-b7c9412c1b3f/) (Udemy : Jan 2022)
   - [Python](https://www.kaggle.com/learn/certification/berniceagossouvo/python) (Kaggle : Juillet 2021)
   - [Data Cleaning](https://www.kaggle.com/learn/certification/berniceagossouvo/data-cleaning) (Kaggle :Oct 2020)
