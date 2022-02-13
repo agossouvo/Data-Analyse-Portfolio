@@ -17,6 +17,7 @@ mes progrès dans les sujets liés à la data analyst/data science/storytelling.
   - [Portfolio Projets](#2)<br>
     - [Prédiction des défauts de paiement des prêts automobiles](#2.1)<br>
     - [Analyse sur l'immigration au Canada](#2.2)<br>
+    - [Etude de la croissance économique des pays](#2.3)<br>
   - [Cours suivis et Projets connexes](#4)<br>
     - [France-IOI Cours et Problèmes](#4.1)<br>
     - [Kaggle 30 Days of ML](#4.2)<br>
@@ -36,8 +37,15 @@ Construction des modèles d'apprentissage
   
   
 ### Analyse sur l'immigration au Canada <a id ="2.2"> </a>
-
-
+code: [PROJET SUR L'IMMIGRATION AU CANADA.ipynb](https://github.com/agossouvo/DataVisualisation/blob/main/PROJET%20SUR%20L'IMMIGRATION%20AU%20CANADA.ipynb)
+Description : le jeu de données contient les flux migratoires au canada de 1980 à 2013. Les données présentent à la fois les entrées et les sorties en fonction du lieu de naissance, de la citoyenneté ou du lieu de résidence précédent/suivant pour les étrangers et les nationaux. Il s'agit d'explorer ces données afin de déterminer d'éventuels patterns. De connaître les pays ou les contients ayant enregistré un nombre maximal de sortie vers le canada. il a été réalisé des graphiques sous python avec les bibliothèques matplotlib, Seaborn allant de simples graphes aux plus complexes en 3 dimensions
+  Compétences : Exploration de données, visualisation des données avec des bibliothèques python pour la visualisation, Data mining consolidation, 
+  Technologie : Pandas, Numpy, Matplotlib, seaborn
+  
+### Etude de la croissance economique des pays 
+  code :
+  Description : Data Visualisation résumant le classement des pays en termes de niveau de vie, carte géolocalisée en fonction de la densité de la population avec un outil dédié à cette tâche : [Power Bi](https://powerbi.microsoft.com/fr-be/)
+  
 ## Projets d'Etude <a id ="4"> </a>
   ### France-IOI Cours et Problèmes <a id ="4.1"> </a>:
   [France-IOI](http://www.france-ioi.org) est une plateforme d'apprentissage de code. il est conçu pour vous permettre de progresser rapidement en programmation et en algorithmique, par un apprentissage allant de la découverte des bases de la programmation jusqu'au niveau des compétitions internationales les plus prestigieuses. 
