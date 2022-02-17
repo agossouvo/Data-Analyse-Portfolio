@@ -22,6 +22,7 @@ mes progrès dans les sujets liés à la data analyst/data science/storytelling.
     - [France-IOI Cours et Problèmes](#4.1)<br>
     - [Kaggle 30 Days of ML](#4.2)<br>
     - [DataCamp](#4.3)<br>
+    - [Openclassroom](#4.4)<br>
   - [Certifications](#6)<br>
   - [Contacts](#8)<br> 
 
@@ -60,6 +61,9 @@ Description : le jeu de données contient les flux migratoires au canada de 1980
 
   
   ### DataCamp <a id = "4.3"> </a>
+  
+  ### Openclassroom <a id ="4.4"> </a>
+  
 
 
 
