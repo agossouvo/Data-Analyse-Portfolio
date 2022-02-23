@@ -77,17 +77,16 @@ Description : le jeu de données contient les flux migratoires au canada de 1980
 
 ## Certifications  <a id ="6"> </a>
   Je crois que la meilleure façon de montrer ses compétences est de faire et de partager son travail accompli, mais parfois les certificats apparaissent comme un résultat indirect :) Voici donc une liste de ceux que je possède avec la date d'achèvement entre parenthèses :
-   -  [Certification Professionnelle IBM DATA SCIENCE](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=gg&utm_medium=sem&campaignid=2087860785&utm_campaign=10-IBM-Data-Science-ROW&utm_content=B2C&adgroupid=79675709271&device=c&keyword=ibm%20data%20science&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=489197596485&hide_mobile_promo&gclid=CjwKCAiA9aKQBhBREiwAyGP5lZbYjh0TEBCwjNba9AxyFtuM-c5lJtRvWvu0Ea61LrRFX0PCsBc1nBoC8k0QAvD_BwE) (de Septembre 2021 à Février 2022)<br>
-      - [Certification](https://www.credly.com/badges/7115c046-2989-4dbc-9c0a-9a8f2d459f38/public_url)
-      - [Python for Data Science and IA](https://www.credly.com/earner/earned/badge/4fcbb1c3-f909-4b26-a4ab-4055f5b2d1c7)  
-      - [Databases and SQL for Data Science](https://www.credly.com/earner/earned/badge/77847675-b388-43da-8468-ccab646c1911)
-      - [Data Visualisation with Python](https://www.credly.com/earner/earned/badge/d1c5f47c-6609-4494-87a0-49f2cca932ed) <br>
-      - [Data Analysis with Python](https://www.credly.com/earner/earned/badge/cb4e3cb7-3141-4399-a046-84b296426910) <br>
-      - [Machine Learning with Python](https://www.credly.com/earner/earned/badge/491b1d69-d017-463b-a7a1-9fe6d2eecf4d)
-      - [Python projects for Data Science](https://www.credly.com/earner/earned/badge/38d67735-acc8-493a-b469-4a779fbc5cdc)
-      - [Tools for Data Science](https://www.credly.com/earner/earned/badge/1a179a5a-2acb-4374-a090-61e93f36a3fd)
-      - [Data science Methodology](https://www.credly.com/earner/earned/badge/a18d2f5e-813a-4ec6-bb8a-bd4f4f39cbce) <br>
-      - [Data Science Orientation](https://www.credly.com/earner/earned/badge/3a4dce9f-a5ae-4fff-8b42-1d292c5fbe8f) <br>
+   -  [Certification Professionnelle IBM DATA SCIENCE](https://www.credly.com/badges/7115c046-2989-4dbc-9c0a-9a8f2d459f38/public_url) (de Septembre 2021 à Février 2022)<br>
+      - Python for Data Science and IA
+      - Databases and SQL for Data Science
+      - Data Visualisation with Python <br>
+      - Data Analysis with Python <br>
+      - Machine Learning with Python
+      - Python projects for Data Science
+      - Tools for Data Science
+      - Data science Methodology <br>
+      - Data Science Orientation <br>
       
   - [Web scraping avec Python pour la data science](https://www.udemy.com/certificate/UC-583889c5-66e1-4689-b34f-b7c9412c1b3f/) (Udemy : Jan 2022)
   - [Python](https://www.kaggle.com/learn/certification/berniceagossouvo/python) (Kaggle : Juillet 2021)
