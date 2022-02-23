@@ -78,6 +78,7 @@ Description : le jeu de données contient les flux migratoires au canada de 1980
 ## Certifications  <a id ="6"> </a>
   Je crois que la meilleure façon de montrer ses compétences est de faire et de partager son travail accompli, mais parfois les certificats apparaissent comme un résultat indirect :) Voici donc une liste de ceux que je possède avec la date d'achèvement entre parenthèses :
    -  [Certification Professionnelle IBM DATA SCIENCE](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=gg&utm_medium=sem&campaignid=2087860785&utm_campaign=10-IBM-Data-Science-ROW&utm_content=B2C&adgroupid=79675709271&device=c&keyword=ibm%20data%20science&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=489197596485&hide_mobile_promo&gclid=CjwKCAiA9aKQBhBREiwAyGP5lZbYjh0TEBCwjNba9AxyFtuM-c5lJtRvWvu0Ea61LrRFX0PCsBc1nBoC8k0QAvD_BwE) (de Septembre 2021 à Février 2022)<br>
+      - [Certification](https://www.credly.com/badges/7115c046-2989-4dbc-9c0a-9a8f2d459f38/public_url)
       - [Python for Data Science and IA](https://www.credly.com/earner/earned/badge/4fcbb1c3-f909-4b26-a4ab-4055f5b2d1c7)  
       - [Databases and SQL for Data Science](https://www.credly.com/earner/earned/badge/77847675-b388-43da-8468-ccab646c1911)
       - [Data Visualisation with Python](https://www.credly.com/earner/earned/badge/d1c5f47c-6609-4494-87a0-49f2cca932ed) <br>
