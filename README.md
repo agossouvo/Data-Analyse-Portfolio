@@ -64,15 +64,19 @@ Description : le jeu de données contient les flux migratoires au canada de 1980
   
   ### Openclassroom <a id ="4.4"> </a>
   OpenClassrooms est un site web de formation en ligne. Il propose à ses membres des cours certifiants et des parcours débouchant sur des métiers en croissance. j'y ai effectué quelques cours dans le but de maitriser des compéteneces ou de découvrir des champs d'action de l'analyse de données. je liste ici une palette non exhaustive de mes apprentissages
-  - Analysez vos données textuelles 
-  - Apprenez à utiliser la ligne de commande dans un terminal 
-  - Evaluez les performances d'un modele de machine learning 
-  - Effectuez vos études statistiques avec R 
-  - Réalisez une analyse exploratoire de données 
-  - Apprenez à créer votre site web avec HTML5 et CSS3 
-  - Réalisez un dashboard avec Tableau 
-  - Décrivez et nettoyez votre jeu de données 
 
+  - Apprenez à créer votre site web avec HTML5 et CSS3 
+  - Apprenez à utiliser la ligne de commande dans un terminal
+  - Initiez vous à Linux
+  - Créez votre datalake 
+  - Maitrisez les bases de données NoSQL
+  - Décrivez et nettoyez votre jeu de données
+  - Réalisez une analyse exploratoire de données 
+  - Effectuez vos études statistiques avec R 
+  - Evaluez les performances d'un modele de machine learning 
+  - Analysez vos données textuelles 
+  - Réalisez un dashboard avec Tableau 
+   
 
 
 ## Certifications  <a id ="6"> </a>
