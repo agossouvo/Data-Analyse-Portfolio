@@ -56,7 +56,7 @@ Description : le jeu de données contient les flux migratoires au canada de 1980
   
   
   ### Visualisation sur Tableau <a id ="2.5"> </a>
-  **Description**: Mon compte Tableau public sur lequel j'ai déposé mes visualisations sur différents sujets societaux. Les bases de données sont tirées de [data.gouv](https://www.data.gouv.fr/fr/)  ---> [go to Tableau](https://public.tableau.com/app/profile/agossouvo#!/?newProfile=&activeTab=0)..
+  **Description**: [Mon compte Tableau public](https://public.tableau.com/app/profile/agossouvo#!/?newProfile=&activeTab=0) sur lequel j'ai déposé mes visualisations sur différents sujets societaux. Les bases de données sont tirées de [data.gouv](https://www.data.gouv.fr/fr/)
    
   
 ## Projets d'Etude <a id ="4"> </a>
