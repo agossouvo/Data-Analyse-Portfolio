@@ -19,7 +19,7 @@ mes progrès dans les sujets liés à la data analyst/data science/storytelling.
     - [Analyse sur l'immigration au Canada](#2.2)<br>
     - [Etude de la croissance économique des pays](#2.3)<br>
     - [Web scraping sur différents sites](#2.4)<br>
-    - [Visualisation de données sous Tableau Software](#2.4)br>
+    - [Visualisation de données sous Tableau Software](#2.5)<br>
   - [Cours suivis et Projets connexes](#4)<br>
     - [France-IOI Cours et Problèmes](#4.1)<br>
     - [Kaggle 30 Days of ML](#4.2)<br>
