@@ -18,6 +18,8 @@ mes progrès dans les sujets liés à la data analyst/data science/storytelling.
     - [Prédiction des défauts de paiement des prêts automobiles](#2.1)<br>
     - [Analyse sur l'immigration au Canada](#2.2)<br>
     - [Etude de la croissance économique des pays](#2.3)<br>
+    - [Web scraping sur différents sites](#2.4)<br>
+    - [Visualisation de données sous Tableau Software](#2.4)br>
   - [Cours suivis et Projets connexes](#4)<br>
     - [France-IOI Cours et Problèmes](#4.1)<br>
     - [Kaggle 30 Days of ML](#4.2)<br>
@@ -53,8 +55,8 @@ Description : le jeu de données contient les flux migratoires au canada de 1980
   Code [Scraping](https://github.com/agossouvo/Projets_secondaires/tree/main/WebScraping)
   
   
-  ### Visualisation sur Tableau 
-  **Description**: My Tableau Public account ---> [go to Tableau](https://public.tableau.com/app/profile/agossouvo#!/?newProfile=&activeTab=0)..
+  ### Visualisation sur Tableau <a id ="2.5"> </a>
+  **Description**: Mon compte Tableau public sur lequel j'ai déposé mes visualisations sur différents sujets societaux. Les bases de données sont tirées de [data.gouv](https://www.data.gouv.fr/fr/)  ---> [go to Tableau](https://public.tableau.com/app/profile/agossouvo#!/?newProfile=&activeTab=0)..
    
   
 ## Projets d'Etude <a id ="4"> </a>
