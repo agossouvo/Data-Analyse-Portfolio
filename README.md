@@ -39,7 +39,7 @@ Construction des modèles d'apprentissage <br><li>
   
 ### Analyse sur l'immigration au Canada <a id ="2.2"> </a>
 **Code** : [PROJET SUR L'IMMIGRATION AU CANADA.ipynb](https://github.com/agossouvo/DataVisualisation/blob/main/PROJET%20SUR%20L'IMMIGRATION%20AU%20CANADA.ipynb)<br>
-Description : le jeu de données contient les flux migratoires au canada de 1980 à 2013. Les données présentent à la fois les entrées et les sorties en fonction du lieu de naissance, de la citoyenneté ou du lieu de résidence précédent/suivant pour les étrangers et les nationaux. Il s'agit d'explorer ces données afin de déterminer d'éventuels patterns. De connaître les pays ou les contients ayant enregistré un nombre maximal de sortie vers le canada. il a été réalisé des graphiques sous python avec les bibliothèques matplotlib, Seaborn allant de simples graphes aux plus complexes en 3 dimensions<br>
+Description : le jeu de données contient les flux migratoires au canada de 1980 à 2013. Les données présentent à la fois les entrées et les sorties en fonction du lieu de naissance, de la citoyenneté ou du lieu de résidence précédent/suivant pour les étrangers et les nationaux. Il s'agit d'explorer ces données afin de déterminer d'éventuels patterns, de connaître les pays ou les contients ayant enregistré un nombre maximal de sortie vers le canada. il a été réalisé des graphiques sous python avec les bibliothèques matplotlib, Seaborn allant de simples graphes aux plus complexes en 3 dimensions<br>
   **Compétences** : Exploration de données, visualisation des données avec des bibliothèques python pour la visualisation, Data mining consolidation <br>
   **Technologie** : Pandas, Numpy, Matplotlib, seaborn <br>
   
