@@ -52,6 +52,11 @@ Description : le jeu de données contient les flux migratoires au canada de 1980
   ### Web scraping sur différents sites <a id ="2.4"> </a>
   Code [Scraping](https://github.com/agossouvo/Projets_secondaires/tree/main/WebScraping)
   
+  
+  ### Visualisation sur Tableau 
+  **Description**: My Tableau Public account ---> [go to Tableau](https://public.tableau.com/app/profile/agossouvo#!/?newProfile=&activeTab=0)..
+   
+  
 ## Projets d'Etude <a id ="4"> </a>
   ### France-IOI Cours et Problèmes <a id ="4.1"> </a>:
   [France-IOI](http://www.france-ioi.org) est une plateforme d'apprentissage de code. il est conçu pour permettre de progresser rapidement en programmation et en algorithmique, par un apprentissage allant de la découverte des bases de la programmation jusqu'au niveau des compétitions internationales les plus prestigieuses. 
