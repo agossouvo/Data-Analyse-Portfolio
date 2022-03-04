@@ -54,7 +54,7 @@ Description : le jeu de données contient les flux migratoires au canada de 1980
   
 ## Projets d'Etude <a id ="4"> </a>
   ### France-IOI Cours et Problèmes <a id ="4.1"> </a>:
-  [France-IOI](http://www.france-ioi.org) est une plateforme d'apprentissage de code. il est conçu pour vous permettre de progresser rapidement en programmation et en algorithmique, par un apprentissage allant de la découverte des bases de la programmation jusqu'au niveau des compétitions internationales les plus prestigieuses. 
+  [France-IOI](http://www.france-ioi.org) est une plateforme d'apprentissage de code. il est conçu pour permettre de progresser rapidement en programmation et en algorithmique, par un apprentissage allant de la découverte des bases de la programmation jusqu'au niveau des compétitions internationales les plus prestigieuses. 
   
   ### Kaggle 30 days of ML <a id ="4.2"> </a>
    **Description** : 30 jours d'apprentissage automatique par Kaggle. Le cours couvre rapidement les compétences les plus essentielles nécessaires pour monter en compétence avec les données et apprendre rapidement à construire des modèles d'apprentissage automatique.
