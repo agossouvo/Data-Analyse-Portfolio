@@ -68,7 +68,7 @@ Description : le jeu de données contient les flux migratoires au canada de 1980
 
   
   ### DataCamp <a id = "4.3"> </a>
-  Sur DataCamp j'ai suivi le parcours Data engineer avec Python. je me suis familiarisée avec les technologies big data comme pySpark Sapark SQL, AIrflow,Mongodb 
+  Sur DataCamp j'ai suivi le parcours Data engineer avec Python. je me suis familiarisée avec les technologies big data comme pySpark SparkSQL, AIrflow ,Mongodb, AWS
   
   ### Openclassroom <a id ="4.4"> </a>
   OpenClassrooms est un site web de formation en ligne. Il propose à ses membres des cours certifiants et des parcours débouchant sur des métiers en croissance. j'y ai effectué quelques cours dans le but de maitriser des compéteneces ou de découvrir des champs d'action de l'analyse de données. je liste ici une palette non exhaustive de mes apprentissages
